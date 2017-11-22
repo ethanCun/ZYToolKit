@@ -45,6 +45,7 @@
 		066B1C3F1FC55C6E0071985C /* ZYTool.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYTool.pch; sourceTree = "<group>"; };
 		066B1C401FC55C6E0071985C /* ZYView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYView.h; sourceTree = "<group>"; };
 		066B1C411FC55C6E0071985C /* ZYView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYView.m; sourceTree = "<group>"; };
+		06C570221FC566540005DAF8 /* ZYToolKits.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYToolKits.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +103,7 @@
 		066B1C341FC55C6E0071985C /* ZYToolKits */ = {
 			isa = PBXGroup;
 			children = (
+				06C570221FC566540005DAF8 /* ZYToolKits.h */,
 				066B1C351FC55C6E0071985C /* ZYButton.h */,
 				066B1C361FC55C6E0071985C /* ZYButton.m */,
 				066B1C371FC55C6E0071985C /* ZYImageView.h */,
@@ -360,6 +362,7 @@
 				066B1C331FC55C4A0071985C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
