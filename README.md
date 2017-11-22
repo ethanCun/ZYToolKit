@@ -4,8 +4,11 @@
 #### 链式封装的UI工具集，使用方法类似Masonry与SDAutolayout
 
 ##### 使用方法
+```
 1. 手动拉入 ZYToolKits
-2. Cocoapods :在Podfile中引入：  pod 'ZYToolKits', '~> 0.0.1'
+2. Cocoapods :在Podfile中引入：  pod 'ZYToolKits', '~> 0.0.1' 
+   在需要使用的地方导入：#import <ZYToolKits/ZYToolKits.h>
+```
 
 ##### ZYLabel
 ```
