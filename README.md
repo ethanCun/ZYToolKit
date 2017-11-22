@@ -1,4 +1,4 @@
-![icon](https://github.com/ethanCun/ZYTool/blob/master/ZYTool.png)
+![icon](https://github.com/ethanCun/ZYToolKit/blob/master/ZYToolKit.png)
 <hr>
 
 #### 链式封装的UI工具集，使用方法类似Masonry与SDAutolayout
@@ -151,4 +151,4 @@ ZYButton *button = [ZYButton createZYButton:^(ZYButton *button) {
 ```
 
 #### 效果图
-![image](https://github.com/ethanCun/ZYTool/blob/master/Simulator%20Screen%20Shot%202017%E5%B9%B411%E6%9C%8822%E6%97%A5%20%E4%B8%8B%E5%8D%882.48.32.png)
+![image](https://github.com/ethanCun/ZYToolKit/blob/master/Simulator%20Screen%20Shot%202017%E5%B9%B411%E6%9C%8822%E6%97%A5%20%E4%B8%8B%E5%8D%882.48.32.png)
