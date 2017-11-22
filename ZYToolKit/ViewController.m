@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  ZYTools
+//  ZYToolKit
 //
 //  Created by macOfEthan on 17/11/22.
 //  Copyright © 2017年 macOfEthan. All rights reserved.
@@ -17,14 +17,20 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-
+    
     ZYLabel *label = [ZYLabel createZYLabel:^(ZYLabel *label) {
         
-        label.frameBlock(CGRectMake(100, 200, 100, 30)).textColorBlock([UIColor blackColor]).fontBlock([UIFont systemFontOfSize:14]).backGroundColorBlock([UIColor brownColor]).textAlignmentBlock(NSTextAlignmentCenter).textBlock(@"this is a text").userEnableBlock(YES);
+        label.frameBlock(CGRectMake(100, 200, 100, 30))
+        .textColorBlock([UIColor blackColor])
+        .fontBlock([UIFont systemFontOfSize:14])
+        .backGroundColorBlock([UIColor brownColor])
+        .textAlignmentBlock(NSTextAlignmentCenter)
+        .textBlock(@"this is a text")
+        .userEnableBlock(YES);
     }];
     
     label.singalTapBlock = ^(){
-    
+        
         NSLog(@"singalTap");
     };
     
@@ -143,7 +149,5 @@
     
     [self.view addSubview:textView];
 }
-
-
 
 @end

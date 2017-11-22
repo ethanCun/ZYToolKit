@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "066B1BE11FC525BF0071985C"
-               BuildableName = "ZYTools.app"
-               BlueprintName = "ZYTools"
-               ReferencedContainer = "container:ZYTools.xcodeproj">
+               BlueprintIdentifier = "066B1C191FC55C4A0071985C"
+               BuildableName = "ZYToolKit.app"
+               BlueprintName = "ZYToolKit"
+               ReferencedContainer = "container:ZYToolKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "066B1BE11FC525BF0071985C"
-            BuildableName = "ZYTools.app"
-            BlueprintName = "ZYTools"
-            ReferencedContainer = "container:ZYTools.xcodeproj">
+            BlueprintIdentifier = "066B1C191FC55C4A0071985C"
+            BuildableName = "ZYToolKit.app"
+            BlueprintName = "ZYToolKit"
+            ReferencedContainer = "container:ZYToolKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "066B1BE11FC525BF0071985C"
-            BuildableName = "ZYTools.app"
-            BlueprintName = "ZYTools"
-            ReferencedContainer = "container:ZYTools.xcodeproj">
+            BlueprintIdentifier = "066B1C191FC55C4A0071985C"
+            BuildableName = "ZYToolKit.app"
+            BlueprintName = "ZYToolKit"
+            ReferencedContainer = "container:ZYToolKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "066B1BE11FC525BF0071985C"
-            BuildableName = "ZYTools.app"
-            BlueprintName = "ZYTools"
-            ReferencedContainer = "container:ZYTools.xcodeproj">
+            BlueprintIdentifier = "066B1C191FC55C4A0071985C"
+            BuildableName = "ZYToolKit.app"
+            BlueprintName = "ZYToolKit"
+            ReferencedContainer = "container:ZYToolKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

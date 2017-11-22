@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ZYTools.xcscheme</key>
+		<key>ZYToolKit.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>066B1BE11FC525BF0071985C</key>
+		<key>066B1C191FC55C4A0071985C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

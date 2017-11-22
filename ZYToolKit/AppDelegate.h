@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  ZYTools
+//  ZYToolKit
 //
 //  Created by macOfEthan on 17/11/22.
 //  Copyright © 2017年 macOfEthan. All rights reserved.
